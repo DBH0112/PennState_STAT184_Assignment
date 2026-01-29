@@ -1,1 +1,1 @@
-# PennState_STAT184_Assignment
+# PennState_STAT184
